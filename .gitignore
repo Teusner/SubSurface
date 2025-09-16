@@ -328,3 +328,4 @@ TSWLatexianTemp*
 build/*
 cad/*
 cam/*
+**/build/**
